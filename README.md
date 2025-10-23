@@ -1,6 +1,6 @@
 # CS-210-8-1-journal
 
-This project provides a very simple simulation of interest earned on certificates of deposit. A user is able to run as many simulations as they desire.
+This project provides a very simple simulation of interest earned on certificates of deposit and other investment vehicles. A user is able to run as many simulations as they desire.
 
 # Strengths
 Separation of concerns (input vs. calculation vs. data), input validation, and the use of modern C++ features for clean output.
